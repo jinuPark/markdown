@@ -61,7 +61,7 @@
 
 
 
-### 4. 코드블록
+### 4. 코드블럭
 ```java
 public class Hello {
   public static void main(String args[]) {
